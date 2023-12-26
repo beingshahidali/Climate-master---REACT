@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40rem;
+  background-image: url('/public/background.jpeg');
+  backdrop-filter: blur(3px);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
