@@ -2,7 +2,8 @@
 
 Climate Master is a React application that provides weather information based on the OpenWeatherMap API.
 
-![Climate Master ](https://climate-master.netlify.app/)
+# Live Demo 
+![Click here  ](https://climate-master.netlify.app/)
 
 ## Features
 
