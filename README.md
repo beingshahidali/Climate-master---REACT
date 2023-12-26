@@ -5,6 +5,12 @@ Climate Master is a React application that provides weather information based on
 # Live Demo 
 ![Click here  ](https://climate-master.netlify.app/)
 
+## Screenshots
+
+![Climate Master Screenshot]
+(https://github.com/beingshahidali/Climate-master---REACT/blob/main/public/screenshot.png)
+(https://github.com/beingshahidali/Climate-master---REACT/blob/main/public/screenshot2.png)
+
 ## Features
 
 - **Weather Information:** Get real-time weather information for a specified city.
