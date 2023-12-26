@@ -8,6 +8,8 @@ Climate Master is a React application that provides weather information based on
 ## Screenshots
 
 ![Climate Master Screenshot](https://github.com/beingshahidali/Climate-master---REACT/blob/main/public/screenshot.png)
+<br>
+![Climate Master Screenshot](https://github.com/beingshahidali/Climate-master---REACT/blob/main/public/screenshot2.png)
 
 ## Features
 
